@@ -1,0 +1,4 @@
+Fruit ninja game 
+NOTE:we can't handle throwing many fruits and time in arcade mode
+Difficulity:increase according to score there are 3 levels of difficulity
+
